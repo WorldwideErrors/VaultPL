@@ -1,0 +1,9 @@
+name: VaultsPlugin
+version: ${project.version}
+main: vaultzhyra.vaultzhyra.VaultZhyra
+api-version: 1.13
+authors: [Zhyrapian]
+description: Playervaults!
+commands:
+  vault:
+    aliases: [kluis]
